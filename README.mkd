@@ -8,6 +8,9 @@ of [Pygame](http://www.pygame.org/download.shtml)
 
 Simply type `python parry.py` to run.
 
+## Screenshot ##
+
+<img style="border: 1px solid black" src="http://i.imgur.com/ona1M1n.gif">
 
 ## Controls ##
 

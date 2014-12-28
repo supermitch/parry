@@ -132,9 +132,9 @@ class AssetLoader(object):
         try:
             with open(f_name, 'r') as f:
                 return json.load(f)
-        except IOError:
-            print('Attribute file not found: {}'.format(f_name))
         except (AttributeError, ValueError):
-            print('Maybe bad JSON in attribs? {}'.format(f_name))
-        return None
+            print('Bad JSON in attribs: {}'.format(f_name))
+            return None
+        except IOError:
+            return None
 
