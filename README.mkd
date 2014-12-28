@@ -1,0 +1,16 @@
+# Parry.py #
+
+A spritesheet animation / collision tester called "Parry".
+
+Written for Mac OSX 10.7 supplied python (Python 2.7.6), and the
+[corresponding version](http://www.pygame.org/ftp/pygame-1.9.2pre-py2.7-macosx10.7.mpkg.zip)
+of [Pygame](http://www.pygame.org/download.shtml)
+
+Simply type `python parry.py` to run.
+
+
+## Controls ##
+
+* __Esc__ or __q__ to Quit
+* __a__, __s__, __w__ & __d__ for actions
+

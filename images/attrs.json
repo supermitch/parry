@@ -1,0 +1,13 @@
+{
+    "homura": {
+        "kind": "spritesheet",
+        "name": "hero",
+        "shape": [8, 1]
+    },
+    "madoka": {
+        "kind": "spritesheet",
+        "name": "monster",
+        "shape": [8, 1]
+    }
+}
+
